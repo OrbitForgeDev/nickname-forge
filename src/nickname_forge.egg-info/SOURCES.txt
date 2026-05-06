@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+src/nickname_forge/__init__.py
+src/nickname_forge/engine.py
+src/nickname_forge/main.py
+src/nickname_forge.egg-info/PKG-INFO
+src/nickname_forge.egg-info/SOURCES.txt
+src/nickname_forge.egg-info/dependency_links.txt
+src/nickname_forge.egg-info/entry_points.txt
+src/nickname_forge.egg-info/requires.txt
+src/nickname_forge.egg-info/top_level.txt
+tests/test_cli.py
+tests/test_engine.py

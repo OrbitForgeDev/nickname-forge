@@ -1,0 +1,5 @@
+{
+  "prefixes": ["Brass", "Gear", "Steam", "Copper", "Clock", "Iron", "Cog", "Brass", "Zinc", "Rivet", "Boiler", "Gauge", "Piston", "Coal", "Zeppelin"],
+  "roots": ["Work", "Turn", "Pipe", "Valve", "Wheel", "Spring", "Tank", "Engine", "Goggle", "Sprocket", "Axle", "Flywheel", "Condenser", "Regulator", "Governor"],
+  "suffixes": ["Smith", "Wright", "Tinker", "Mechanic", "Artisan", "Inventor", "Engraver", "Craftsman", "Builder", "Forger", "Fabricator", "Machinist", "Operator", "Technician", "Designer"]
+}

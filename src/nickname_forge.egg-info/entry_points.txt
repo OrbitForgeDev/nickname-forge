@@ -1,0 +1,2 @@
+[console_scripts]
+forge = nickname_forge.main:main_entry

@@ -1,0 +1,5 @@
+{
+  "prefixes": ["Astro", "Nebula", "Cosmo", "Star", "Void", "Orbit", "Solar", "Lunar", "Nova", "Quasar", "Hyper", "Dark", "Zenith", "Stellar", "Galactic"],
+  "roots": ["Forge", "Drive", "Sail", "Dust", "Ray", "Hawk", "Lance", "Mech", "Pilot", "Colony", "Cargo", "Beacon", "Vector", "Wing", "Core"],
+  "suffixes": ["Walker", "Tech", "Dev", "Smith", "Craft", "Link", "Base", "Port", "Core", "Net", "Ops", "Sys", "Node", "Grid", "Dock"]
+}

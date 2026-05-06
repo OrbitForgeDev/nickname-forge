@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: nickname-forge
+Version: 0.1.0
+Summary: CLI tool to forge unique nicknames in various styles
+Author: OrbitForgeDev
+License: MIT
+Keywords: cli,nickname,generator,forge
+Classifier: Development Status :: 3 - Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Requires-Python: >=3.11
+Description-Content-Type: text/markdown
+Requires-Dist: typer>=0.12
+Requires-Dist: rich>=13.0
+Provides-Extra: dev
+Requires-Dist: pytest>=8.0; extra == "dev"
+Requires-Dist: pytest-cov>=5.0; extra == "dev"
+Requires-Dist: ruff>=0.5; extra == "dev"
+Requires-Dist: mypy>=1.10; extra == "dev"

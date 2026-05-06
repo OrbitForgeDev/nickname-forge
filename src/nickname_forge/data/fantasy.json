@@ -1,0 +1,5 @@
+{
+  "prefixes": ["Iron", "Shadow", "Storm", "Dragon", "Frost", "Star", "Moon", "Fire", "Crystal", "Thorn", "Silver", "Dark", "Wild", "Arcane", "Elder"],
+  "roots": ["Forge", "Blade", "Shield", "Heart", "Soul", "Mage", "Knight", "Rune", "Song", "Stone", "Spell", "Myth", "Bane", "Warden", "Flame"],
+  "suffixes": ["Born", "Weaver", "Keeper", "Seeker", "Walker", "Bane", "Lord", "Fire", "Light", "Shade", "Breaker", "Caller", "Whisper", "Guardian", "Fury"]
+}
