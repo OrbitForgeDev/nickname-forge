@@ -9,6 +9,17 @@
 
 ---
 
+## 🌐 Development Notes
+
+Initial code comments and documentation were written in Russian (the author's native language) and subsequently translated to English using AI-assisted tools.
+
+This workflow ensures:
+- Faster prototyping in the developer's native language
+- Clean, production-ready English documentation for the global community
+- Consistent terminology across the entire codebase
+
+*If you find any awkward phrasing in comments — pull requests are welcome!*
+
 ## 📖 Overview
 
 **Nickname Forge** is a command-line tool that generates memorable, unique nicknames by combining word parts from different style templates. Whether you need a cyberpunk handle, a fantasy character name, or a space-themed alias — Forge has you covered.
